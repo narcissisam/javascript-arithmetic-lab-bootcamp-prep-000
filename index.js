@@ -1,4 +1,7 @@
 function add(x,y) {
   return x + y; 
 }
-function
+function subtract(x,y){
+  return x - y;
+}
+
